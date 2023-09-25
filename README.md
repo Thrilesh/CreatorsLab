@@ -27,16 +27,16 @@ Include screenshots of your webpages to showcase your creative design:
 
 Follow these steps to set up and run the web application:
 
-1. Clone this repository to your local machine: git clone https://github.com/your-username/your-repo.git
+1. Clone this repository to your local machine: git clone https://github.com/Thrilesh/CreatorsLab.git
 
 2. Navigate to the project directory: cd your-repo
 
-3. Create a virtual environment (optional but recommended): python -m venv venv
+3. Create a virtual environment (optional but recommended): python -m venv myenv
 
 4. Activate the virtual environment:
 - Windows:
   ```
-  venv\Scripts\activate
+  myenv\Scripts\activate
   ```
 5. Install the project dependencies: pip install -r requirements.txt
 
@@ -48,7 +48,55 @@ Follow these steps to set up and run the web application:
 
 ## Usage
 
-Provide instructions on how to use the web application. Include any login credentials if needed.
+Accessing the Application
+Open your web browser and navigate to the following URLs:
+
+Home Page
+This is the home page of our web application.
+
+User Registration
+To register for an account:
+
+Click on the "Register" link located in the top right corner of the home page.
+You will be redirected to the registration page.
+On the registration page:
+
+Fill in the required information, including your desired username, password, and email address.
+Click the "Register" button to create your account.
+User Login
+To log in to your account:
+
+Click on the "Login" link located in the top right corner of the home page.
+You will be redirected to the login page.
+On the login page:
+
+Enter your username and password.
+Click the "Login" button to access your account.
+File Upload
+Once logged in, you can upload files:
+
+Click on the "Upload" link in the navigation menu.
+You will be directed to the file upload page.
+On the file upload page:
+
+Click the "Choose File" button to select a file from your device.
+Add a description or any relevant information.
+Click the "Upload" button to submit the file.
+
+## Navigation
+The navigation menu at the top of the page allows you to:
+Easily switch between different sections of the application.
+Access your profile (if available).
+Log out of your account.
+Admin Interface (if applicable)
+If you are an administrator:
+Access the admin interface.
+Log in using your admin credentials.
+
+For testing purposes, we have provided demo accounts:
+Demo User:
+Username: thrilesh
+Password: A850W993@abcd
 
 ## Contributing
 
