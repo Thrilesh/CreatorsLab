@@ -17,8 +17,11 @@ This is a Django web application developed as part of my assignment. It allows u
 
 Include screenshots of your webpages to showcase your creative design:
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 1]("C:\Users\91965\Pictures\Screenshots\Screenshot (104).png")
+![Screenshot 2]("C:\Users\91965\Pictures\Screenshots\Screenshot (105).png")
+![Screenshot 3]("C:\Users\91965\Pictures\Screenshots\Screenshot (106).png")
+![Screenshot 4]("C:\Users\91965\Pictures\Screenshots\Screenshot (107).png")
+![Screenshot 5]("C:\Users\91965\Pictures\Screenshots\Screenshot (108).png")
 
 ## Installation
 
