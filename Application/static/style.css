@@ -1,0 +1,60 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #007BFF;
+    /* Blue heading color */
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: #555;
+    /* Gray label text color */
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    /* Light gray input background */
+    color: #333;
+    /* Dark text color */
+}
+
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    /* Smooth hover transition */
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+    /* Darker blue on hover */
+}

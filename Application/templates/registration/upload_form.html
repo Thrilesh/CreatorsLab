@@ -1,0 +1,11 @@
+<!-- upload_form.html -->
+
+
+{% load static %}
+<form method="post" action="{% url 'upload' %}" enctype="multipart/form-data">
+    {% csrf_token %}
+    <label for="file">Choose a file to upload:</label>
+    <input type="file" id="file" name="file" required><br><br>
+    
+    <input type="submit" value="Upload">
+  </form>
